@@ -1,0 +1,69 @@
+{
+  "publisher": "dulcetti",
+  "name": "dulcetti-extension-pack",
+  "displayName": "dulcetti-extension-pack",
+  "description": "My collection of extensions that use in my projects",
+  "version": "0.0.1",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#FFCC33",
+    "theme": "dark"
+  },
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "clinyong.vscode-css-modules",
+    "dbaeumer.vscode-eslint",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "eg2.vscode-npm-script",
+    "esbenp.prettier-vscode",
+    "flowtype.flow-for-vscode",
+    "formulahendry.auto-close-tag",
+    "HookyQR.beautify",
+    "jpoissonnier.vscode-styled-components",
+    "kumar-harsh.graphql-for-vscode",
+    "Mikael.Angular-BeastCode",
+    "ms-azuretools.vscode-docker",
+    "ms-python.python",
+    "ms-vsliveshare.vsliveshare",
+    "msjsdiag.debugger-for-chrome",
+    "NuclleaR.vscode-extension-auto-import",
+    "ritwickdey.LiveServer",
+    "robinbentley.sass-indented",
+    "vscode-icons-team.vscode-icons",
+    "wgenial.html-snippets",
+    "wix.vscode-import-cost",
+    "editorconfig.editorconfig",
+    "formulahendry.auto-rename-tag",
+    "mrmlnc.vscode-duplicate",
+    "patbenatar.advanced-new-file",
+    "apollographql.vscode-apollo",
+    "andys8.jest-snippets",
+    "skyran.js-jsx-snippets",
+    "pulkitgangwar.nextjs-snippets",
+    "ms-vscode.vscode-typescript-next",
+    "VisualStudioExptTeam.vscodeintellicode"
+  ],
+  "keywords": [
+    "react",
+    "typescript",
+    "next",
+    "styled-components",
+    "graphql",
+    "javascript",
+    "prettier"
+  ],
+  "repository": {
+    "url": "https://github.com/dulcetti/dulcetti-extension-pack"
+  },
+  "homepage": "https://github.com/dulcetti/dulcetti-extension-pack",
+  "bugs": {
+    "url": "https://github.com/dulcetti/dulcetti-extension-pack/issues"
+  }
+}

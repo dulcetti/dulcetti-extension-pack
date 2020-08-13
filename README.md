@@ -1,10 +1,12 @@
 # Dulcetti Extension Pack
 
-<center><img src="logo.png" alt="Brand" /></center>
+<img src="logo.png" alt="Brand" style="display: block; margin: 0 auto;" />
 
 Conjunto de plugins do VS Code que eu uso nos meus projetos pessoais e nos que faço na [Wooza](https://github.com/woozabr).
 
 ## Lista com as extensões
+
+Fiquei com preguiça de explicar o que cada uma faz, qualquer coisa entra no link e veja o README =P
 
 - [clinyong.vscode-css-modules](https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules)
 - [donjayamanne.githistory](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
@@ -39,3 +41,45 @@ Conjunto de plugins do VS Code que eu uso nos meus projetos pessoais e nos que f
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 - [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+
+## Koé Dulça, curti esse fodasse ae. Posso usar?
+
+Mas é claro, meu nobre. É só buscar no seu VS Code e instalar essa extensão que ela instala tudo que estiver na lista acima.
+
+Caso queira usar somente algumas extensões, não tem problema, é só clonar esse repositório e editar o arquivo package.json. Aí você remove os fodasses, quer dizer, extensões, que não quiser do nó extensionPack e depois siga os procedimentos abaixo para instalar localmente.
+
+### Instalando localmente
+
+- Clone o repositório:
+
+```bash
+git clone git@github.com:dulcetti/dulcetti-extension-pack.git
+```
+
+- Instale globalmente o pacote vsce
+
+```bash
+npm install -g vsce
+```
+
+- Crie o pacote local da Dulcetti extension (caralho, brinquei no inglês agora =P)
+
+```bash
+vsce package
+```
+
+- Instale a extensão através do arquivo .vsix
+
+Só seguir mais uns pequenos passos e tudo estará instalado:
+
+1. Abra o VS Code
+1. Selecione `Extensions` do menu
+1. Clique em `More > Install from VSIX...`
+1. Selecione o arquivo `dulcetti-extension-pack-x.x.x.vsix`
+1. Clique em `Reload Now` para recarregar o VS Code
+
+## Tá olhando o quê? Contribua também!
+
+Aceito sugestões, vira e mexe descubro novas extensões que eu curto e nem sabia da existência. Para fazer isso [é só entrar no repositório](https://github.com/dulcetti/dulcetti-extension-pack) e abrir um Pull Request com as extensões que quiser sugerir ;)
+
+Beijo na alcatra.

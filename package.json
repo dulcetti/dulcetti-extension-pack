@@ -43,6 +43,7 @@
     "msjsdiag.debugger-for-chrome",
     "NuclleaR.vscode-extension-auto-import",
     "patbenatar.advanced-new-file",
+    "pflannery.vscode-versionlens",
     "pulkitgangwar.nextjs-snippets",
     "ritwickdey.liveserver",
     "ritwickdey.LiveServer",
@@ -50,6 +51,7 @@
     "skyran.js-jsx-snippets",
     "VisualStudioExptTeam.vscodeintellicode",
     "vscode-icons-team.vscode-icons",
+    "usernamehw.errorlens",
     "wgenial.html-snippets",
     "wix.vscode-import-cost"
   ],

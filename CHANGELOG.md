@@ -17,3 +17,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Add CoPilot, golang Go and Vetur
 - Update readme
+
+## [0.0.4]
+
+- Add Version Lens and Error Lens
+- Update readme

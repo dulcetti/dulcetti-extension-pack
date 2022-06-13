@@ -3,7 +3,7 @@
   "name": "dulcetti-extension-pack",
   "displayName": "Dulcetti Extension Pack",
   "description": "My collection of extensions that use in my projects",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icon": "logo.png",
   "galleryBanner": {
     "color": "#003c19",

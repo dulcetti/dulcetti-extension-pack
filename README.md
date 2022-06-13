@@ -12,13 +12,11 @@ Fiquei com preguiça de explicar o que cada uma faz, qualquer coisa entra no lin
 - [donjayamanne.githistory](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 - [eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [eg2.vscode-npm-script](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
-- [flowtype.flow-for-vscode](https://marketplace.visualstudio.com/items?itemName=flowtype.flow-for-vscode)
 - [formulahendry.auto-close-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [kumar-harsh.graphql-for-vscode](https://marketplace.visualstudio.com/items?itemName=kumar-harsh.graphql-for-vscode)
 - [Mikael.Angular-BeastCode](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
 - [ms-azuretools.vscode-docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [ms-python.python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-- [msjsdiag.debugger-for-chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 - [NuclleaR.vscode-extension-auto-import](https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import)
 - [ritwickdey.LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [robinbentley.sass-indented](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
@@ -41,6 +39,9 @@ Fiquei com preguiça de explicar o que cada uma faz, qualquer coisa entra no lin
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 - [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go)
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 
 ## Koé Dulça, curti esse fodasse ae. Posso usar?
 

@@ -22,3 +22,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Add Version Lens and Error Lens
 - Update readme
+
+## [0.0.5]
+
+- Add Claude Code
+- Add VSCode Containers
+- Remove deprecated extensions
+- Update readme

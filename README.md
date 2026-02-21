@@ -11,7 +11,6 @@ Fiquei com preguiça de explicar o que cada uma faz, qualquer coisa entra no lin
 - [clinyong.vscode-css-modules](https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules)
 - [donjayamanne.githistory](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 - [eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-- [eg2.vscode-npm-script](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
 - [formulahendry.auto-close-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 - [kumar-harsh.graphql-for-vscode](https://marketplace.visualstudio.com/items?itemName=kumar-harsh.graphql-for-vscode)
 - [Mikael.Angular-BeastCode](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
@@ -38,10 +37,11 @@ Fiquei com preguiça de explicar o que cada uma faz, qualquer coisa entra no lin
 - [Snippets úteis para NextJS](https://marketplace.visualstudio.com/items?itemName=PulkitGangwar.nextjs-snippets)
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 - [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next)
-- [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go)
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+- [VSCode Containers](https://marketplace.visualstudio.com/items?itemName=s-azuretools.vscode-containers)
+- [Claude Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code)
 
 ## Koé Dulça, curti esse fodasse ae. Posso usar?
 

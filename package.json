@@ -49,7 +49,8 @@
     "vscode-icons-team.vscode-icons",
     "usernamehw.errorlens",
     "wgenial.html-snippets",
-    "wix.vscode-import-cost"
+    "wix.vscode-import-cost",
+    "s-azuretools.vscode-containers"
   ],
   "keywords": [
     "react",

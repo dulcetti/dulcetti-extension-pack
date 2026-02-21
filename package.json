@@ -50,7 +50,8 @@
     "usernamehw.errorlens",
     "wgenial.html-snippets",
     "wix.vscode-import-cost",
-    "s-azuretools.vscode-containers"
+    "s-azuretools.vscode-containers",
+    "anthropic.claude-code"
   ],
   "keywords": [
     "react",
